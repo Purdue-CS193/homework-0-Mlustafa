@@ -1,8 +1,10 @@
-## Welcome to Mustafa's Thrilling Page
+## Mustafa's First CS193 Homework
 
-Here you will find nothing sadly. Be patient.
+- Learning about very exciting stuff
+- The memes in the slides
 
-### Markdown
+
+**This webpage is the best webpage you can find on the internet.** 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
